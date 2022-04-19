@@ -253,6 +253,8 @@ tr {
 
     .shop {
         padding: 100px 50px;
+        max-width: 1320px;
+        margin: auto;
     }
 
     .product__name {
